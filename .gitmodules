@@ -1,0 +1,27 @@
+[submodule "sticky-stereotype-primitive"]
+	path = sticky-stereotype-primitive
+	url = git@github.com:StickySource/sticky-stereotype-primitive.git
+[submodule "sticky-stereotype-component"]
+	path = sticky-stereotype-component
+	url = git@github.com:StickySource/sticky-stereotype-component.git
+[submodule "sticky-stereotype-configured"]
+	path = sticky-stereotype-configured
+	url = git@github.com:StickySource/sticky-stereotype-configured.git
+[submodule "sticky-stereotype-content"]
+	path = sticky-stereotype-content
+	url = git@github.com:StickySource/sticky-stereotype-content.git
+[submodule "sticky-stereotype-examples"]
+	path = sticky-stereotype-examples
+	url = git@github.com:StickySource/sticky-stereotype-examples
+[submodule "sticky-stereotype-failure"]
+	path = sticky-stereotype-failure
+	url = git@github.com:StickySource/sticky-stereotype-failure
+[submodule "sticky-stereotype-scheduled"]
+	path = sticky-stereotype-scheduled
+	url = git@github.com:StickySource/sticky-stereotype-scheduled
+[submodule "sticky-stereotype-heartbeat"]
+	path = sticky-stereotype-heartbeat
+	url = git@github.com:StickySource/sticky-stereotype-heartbeat
+[submodule "sticky-stereotype-resource"]
+	path = sticky-stereotype-resource
+	url = git@github.com:StickySource/sticky-stereotype-resource
